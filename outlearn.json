@@ -1,0 +1,23 @@
+{
+  "olpVersion" : "0.5",
+
+  "paths" : [
+    {
+      "name" : "all-modules-docker",
+      "title" : "All Modules from Official Docker Docs",
+      "description" : "See in one place all the modules from Official Docker Docs.",
+      "coverImage" : "https://raw.githubusercontent.com/outlearn-content/assets/master/space.jpg",
+      "privacy" : "public",
+      "pages" : [
+        {"module" : "installation-ubuntu"}
+      ]
+    }
+  ],
+
+  "modules" : [
+    {"olm" : "./modules/installation-ubuntu.md"}
+  ],
+
+  "assets" : [
+  ]
+}
