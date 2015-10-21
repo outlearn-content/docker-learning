@@ -21,7 +21,7 @@
         {"module" : "usingdocker"},
         {"module" : "dockervolumes"},
         {"module" : "dockerlinks"},
-        {"module" : "kitematic_userguide"},
+        {"module" : "kitematic-userguide"},
         {"module" : "machine"}
       ]
     }
@@ -40,7 +40,7 @@
     {"olm" : "./modules/usingdocker.md"},
     {"olm" : "./modules/dockervolumes.md"},
     {"olm" : "./modules/dockerlinks.md"},
-    {"olm" : "./modules/kitematic_userguide.md"},
+    {"olm" : "./modules/kitematic-userguide.md"},
     {"olm" : "./modules/machine.md"}
   ],
 

@@ -1,6 +1,6 @@
 <!--
 {
-"name" : "kitematic_userguide",
+"name" : "kitematic-userguide",
 "version" : "0.1",
 "title" : "Kitematic User Guide: Intro & Overview",
 "description" : "Documentation that provides an overview of Kitematic and installation instructions.",
