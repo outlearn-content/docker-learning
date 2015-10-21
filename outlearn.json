@@ -10,7 +10,9 @@
       "privacy" : "public",
       "pages" : [
         {"module" : "installation-ubuntu"},
-        {"module" : "installation-mac"}
+        {"module" : "installation-mac"},
+        {"module" : "installation-windows"},
+        {"module" : "guide"}
       ]
     }
   ],
@@ -18,7 +20,8 @@
   "modules" : [
     {"olm" : "./modules/installation-ubuntu.md"},
     {"olm" : "./modules/installation-mac.md"},
-    {"olm" : "./modules/installation-windows.md"}
+    {"olm" : "./modules/installation-windows.md"},
+    {"olm" : "./modules/guide.md"}
   ],
 
   "assets" : [
