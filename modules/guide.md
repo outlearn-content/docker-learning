@@ -154,7 +154,6 @@ Go to [Docker Swarm user guide](https://docs.docker.com/swarm/).
 * [Docker Hub](https://hub.docker.com)
 * [Docker blog](https://blog.docker.com/)
 * [Docker documentation](https://docs.docker.com/)
-* [Docker Getting Started Guide](https://docs.docker.com/mac/started/)
 * [Docker code on GitHub](https://github.com/docker/docker)
 * [Docker mailing
   list](https://groups.google.com/forum/#!forum/docker-user)
@@ -162,4 +161,3 @@ Go to [Docker Swarm user guide](https://docs.docker.com/swarm/).
 * [Docker on Twitter](https://twitter.com/docker)
 * Get [Docker help](https://stackoverflow.com/search?q=docker) on
   StackOverflow
-* [Docker.com](https://www.docker.com/)
