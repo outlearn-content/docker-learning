@@ -12,7 +12,17 @@
         {"module" : "installation-ubuntu"},
         {"module" : "installation-mac"},
         {"module" : "installation-windows"},
-        {"module" : "guide"}
+        {"module" : "guide"},
+        {"module" : "baseimages"},
+        {"module" : "basics"},
+        {"module" : "host_integration"},
+        {"module" : "dockerimages"},
+        {"module" : "dockerrepos"},
+        {"module" : "usingdocker"},
+        {"module" : "dockervolumes"},
+        {"module" : "dockerlinks"},
+        {"module" : "kitematic_userguide"},
+        {"module" : "machine"}
       ]
     }
   ],
@@ -21,7 +31,17 @@
     {"olm" : "./modules/installation-ubuntu.md"},
     {"olm" : "./modules/installation-mac.md"},
     {"olm" : "./modules/installation-windows.md"},
-    {"olm" : "./modules/guide.md"}
+    {"olm" : "./modules/guide.md"},
+    {"olm" : "./modules/baseimages.md"},
+    {"olm" : "./modules/basics.md"},
+    {"olm" : "./modules/host_integration.md"},
+    {"olm" : "./modules/dockerimages.md"},
+    {"olm" : "./modules/dockerrepos.md"},
+    {"olm" : "./modules/usingdocker.md"},
+    {"olm" : "./modules/dockervolumes.md"},
+    {"olm" : "./modules/dockerlinks.md"},
+    {"olm" : "./modules/kitematic_userguide.md"},
+    {"olm" : "./modules/machine.md"}
   ],
 
   "assets" : [
