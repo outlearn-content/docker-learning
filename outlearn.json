@@ -17,7 +17,8 @@
 
   "modules" : [
     {"olm" : "./modules/installation-ubuntu.md"},
-    {"olm" : "./modules/installation-mac.md"}
+    {"olm" : "./modules/installation-mac.md"},
+    {"olm" : "./modules/installation-windows.md"}
   ],
 
   "assets" : [
