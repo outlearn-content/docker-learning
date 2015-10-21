@@ -75,7 +75,7 @@ Go to [Working With Containers](https://docs.docker.com/userguide/usingdocker).
 Once you've learnt how to use Docker it's time to take the next step and
 learn how to build your own application images with Docker.
 
-Go to [Working with Docker Images](https://docs.docker.com/userguide/dockerimages.md).
+Go to [Working with Docker Images](https://docs.docker.com/userguide/dockerimages).
 
 <!-- @section -->
 
@@ -86,7 +86,7 @@ Until now we've seen how to build individual applications inside Docker
 containers. Now learn how to build whole application stacks with Docker
 by linking together multiple Docker containers.
 
-Go to [Linking Containers Together](https://docs.docker.com/userguide/dockerlinks.md).
+Go to [Linking Containers Together](https://docs.docker.com/userguide/dockerlinks).
 
 <!-- @section -->
 
@@ -99,7 +99,7 @@ choice to the end-users. Now, lets learn about a flexible way to connect
 containers together within a host or across multiple hosts in a cluster
 using various networking technologies, with the help of extensible plugins.
 
-Go to [Docker Networking](https://docs.docker.com/userguide/dockernetworks.md).
+Go to [Docker Networking](https://docs.docker.com/userguide/dockernetworks).
 
 <!-- @section -->
 
@@ -109,7 +109,7 @@ Go to [Docker Networking](https://docs.docker.com/userguide/dockernetworks.md).
 Now we know how to link Docker containers together the next step is
 learning how to manage data, volumes and mounts inside our containers.
 
-Go to [Managing Data in Containers](https://docs.docker.com/userguide/dockervolumes.md).
+Go to [Managing Data in Containers](https://docs.docker.com/userguide/dockervolumes).
 
 
 <!-- @section -->
@@ -120,7 +120,7 @@ Now we've learned a bit more about how to use Docker we're going to see
 how to combine Docker with the services available on Docker Hub including
 Trusted Builds and private repositories.
 
-Go to [Working with Docker Hub](https://docs.docker.com/userguide/dockerrepos.md).
+Go to [Working with Docker Hub](https://docs.docker.com/userguide/dockerrepos).
 
 
 <!-- @section -->
