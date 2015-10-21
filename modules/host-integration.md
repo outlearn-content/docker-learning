@@ -1,6 +1,6 @@
 <!--
 {
-"name" : ""host-integration",
+"name" : "host-integration",
 "version" : "0.1",
 "title" : "Automatically start containers",
 "description" : "How to generate scripts for upstart, systemd, etc.",
