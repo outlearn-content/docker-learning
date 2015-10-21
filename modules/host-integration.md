@@ -13,7 +13,7 @@
 
 <!-- @section -->
 
-# Automatically start containers
+# Overview
 
 As of Docker 1.2,
 [restart policies](https://docs.docker.com/reference/run/#restart-policies-restart) are the

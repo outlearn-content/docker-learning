@@ -13,7 +13,7 @@
 
 <!-- @section -->
 
-# Working with containers
+# Overview
 
 In the [last section of the Docker User Guide](https://docs.docker.com/userguide/dockerizing)
 we launched our first containers. We launched containers using the

@@ -13,7 +13,7 @@
 
 <!-- @section -->
 
-# Linking containers together
+# Overview
 
 In [the Using Docker section](https://docs.docker.com/userguide/usingdocker), you saw how you can
 connect to a service running inside a Docker container via a network

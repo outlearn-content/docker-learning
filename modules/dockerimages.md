@@ -13,7 +13,7 @@
 
 <!-- @section -->
 
-# Get started with images
+# Overview
 
 In the [introduction](https://docs.docker.com/introduction/understanding-docker/) we've discovered that Docker
 images are the basis of containers. In the

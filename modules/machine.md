@@ -13,7 +13,7 @@
 
 <!-- @section -->
 
-# Docker Machine
+# Overview
 
 >**Note**: Machine is currently in beta, so things are likely to change. We don’t recommend you use it in production yet.
 

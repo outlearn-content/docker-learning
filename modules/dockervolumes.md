@@ -13,7 +13,7 @@
 
 <!-- @section -->
 
-# Managing data in containers
+# Overview
 
 So far we've been introduced to some [basic Docker
 concepts](https://docs.docker.com/userguide/usingdocker/), seen how to work with [Docker

@@ -13,7 +13,7 @@
 
 <!-- @section -->
 
-# Get started with containers
+# Overview
 
 This guide assumes you have a working installation of Docker. To verify Docker is
 installed, use the following command:

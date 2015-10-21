@@ -13,7 +13,7 @@
 
 <!-- @section -->
 
-# Get started with Docker Hub
+# Overview
 
 So far you've learned how to use the command line to run Docker on your local host.
 You've learned how to [pull down images](https://docs.docker.com/userguide/usingdocker/) to build containers

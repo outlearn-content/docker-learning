@@ -13,7 +13,7 @@
 
 <!-- @section -->
 
-# Create a base image
+# Overview
 
 So you want to create your own *Base Image*? Great!
 
