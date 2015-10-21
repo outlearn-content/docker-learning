@@ -15,6 +15,8 @@
 
 # Docker Machine
 
+>**Note**: Machine is currently in beta, so things are likely to change. We don’t recommend you use it in production yet.
+
 Machine lets you create Docker hosts on your computer, on cloud providers, and
 inside your own data center. It automatically creates hosts, installs Docker on
 them, then configures the `docker` client to talk to them. A "machine" is the
