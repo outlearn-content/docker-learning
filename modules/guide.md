@@ -88,18 +88,7 @@ by linking together multiple Docker containers.
 
 Go to [Linking Containers Together](https://docs.docker.com/userguide/dockerlinks).
 
-<!-- @section -->
 
-
-## Docker container networking
-
-Links provides a very easy and convenient way to connect the containers.
-But, it is very opinionated and doesnt provide a lot of flexibility or
-choice to the end-users. Now, lets learn about a flexible way to connect
-containers together within a host or across multiple hosts in a cluster
-using various networking technologies, with the help of extensible plugins.
-
-Go to [Docker Networking](https://docs.docker.com/userguide/dockernetworks).
 
 <!-- @section -->
 
