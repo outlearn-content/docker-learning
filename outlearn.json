@@ -9,13 +9,15 @@
       "coverImage" : "https://raw.githubusercontent.com/outlearn-content/assets/master/space.jpg",
       "privacy" : "public",
       "pages" : [
-        {"module" : "installation-ubuntu"}
+        {"module" : "installation-ubuntu"},
+        {"module" : "installation-mac"}
       ]
     }
   ],
 
   "modules" : [
-    {"olm" : "./modules/installation-ubuntu.md"}
+    {"olm" : "./modules/installation-ubuntu.md"},
+    {"olm" : "./modules/installation-mac.md"}
   ],
 
   "assets" : [

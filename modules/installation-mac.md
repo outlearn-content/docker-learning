@@ -5,8 +5,8 @@
 "title" : "Installation on Mac OS X",
 "description" : "How to install Docker on Mac OS X",
 "freshnessDate" : 2015-10-20,
-"homepage" : "https://docs.docker.com/installation/ubuntulinux/",
-"canonicalSource" : "https://docs.docker.com/installation/ubuntulinux/",
+"homepage" : "https://docs.docker.com/installation/mac/",
+"canonicalSource" : "https://docs.docker.com/installation/mac/",
 "license" : "Apache 2.0"
 }
 -->
