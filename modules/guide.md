@@ -63,7 +63,7 @@ Once you get a grip on running your applications in Docker containers
 we're going to show you how to manage those containers. To find out
 about how to inspect, monitor and manage containers:
 
-Go to [Working With Containers](https://docs.docker.com/userguide/usingdocker.md).
+Go to [Working With Containers](https://docs.docker.com/userguide/usingdocker).
 
 <!-- @section -->
 
